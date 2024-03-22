@@ -10,7 +10,3 @@ In each project you can find:
 - A Power Point presentation
 - You can view Power Point slides as images in the folder    `Diapositivas [Img]`
 - You can view the graphics that were made in the folder `Graficas-[Img]`
-
-Examples of graphics:
-
-`![example of graphics](./Proyecto%201/Graficas-[Img]/Distribución%20por%20categorías%20y%20concepto.jpg)`
